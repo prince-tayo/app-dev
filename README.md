@@ -1,5 +1,5 @@
 # app-dev
-My First repository
+My First Repository
 
 My Favorite Cartoon Hero: Codeblazer
 Why I admire them:
@@ -13,5 +13,3 @@ Favorite Traits:
 - Balances logic with heart
 Quote:
 "Every bug has a weakness. Every fix is a win."
-
-Want to build out Codeblazer’s powers, sidekicks, or origin story next? We could even create a whole cartoon team—like a tech-themed Justice League. Let’s make it epic!
